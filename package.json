@@ -10,19 +10,9 @@
     "tioanime",
     "tioanime api"
   ],
-  "author": {
-    "name": "Carlos Fernández",
-    "email": "carlosfdezb@gmail.com",
-    "social": {
-      "github": "https://github.com/carlosfdezb"
-    }
-  },
+  "author": "Carlos Fernández <carlosfdezb@gmail.com>",
   "contributors": [
-    {
-      "name": "Carlos Fernández",
-      "url": "https://github.com/carlosfdezb",
-      "reason": "Project Leader, and Developer"
-    }
+    "Carlos Fernández (https://github.com/carlosfdezb)"
   ],
   "license": "MIT",
   "dependencies": {
@@ -30,5 +20,14 @@
     "cloudscraper": "^4.6.0",
     "nodemon": "^2.0.6",
     "request": "^2.88.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosfdezb/tioanime.git"
+  },
+  "bugs": {
+    "url": "https://github.com/carlosfdezb/tioanime/issues"
+  },
+  "homepage": "https://github.com/carlosfdezb/tioanime#readme"
 }

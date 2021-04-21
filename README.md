@@ -7,11 +7,9 @@
  TioAnime API is a content provider of the latest in the world of anime with sub in Spanish and free, in addition to providing different complementary information. Using as a reference the websites tioanime.com and myanimelist.net, to extract the data and information.
 </p>
 
-![npm](https://img.shields.io/npm/v/npm?style=flat-square)
+![npm](https://img.shields.io/npm/v/npm?style=flat-square) ![GitHub package.json version](https://img.shields.io/github/package-json/v/carlosfdezb/tioanime?style=flat-square) ![NPM](https://img.shields.io/npm/l/tioanime?style=flat-square)
 
-<!-- <p align="center">
- <a href=""><img src=""></a>
-</p>  -->
+[![NPM](https://nodei.co/npm/tioanime.png)](https://nodei.co/npm/tioanime/)
 
 ## Installation
 ```
@@ -750,3 +748,10 @@ _*Carlos Fernández*_
 ---
 
 Copyright © 2021 [Otakustv API](https://github.com/carlosfdezb/tioanime).
+
+<p align="center">
+  <a href="http://forthebadge.com/" target="_blank">
+    <img src="http://forthebadge.com/images/badges/built-with-love.svg"/>
+  </a>
+</p>
+
