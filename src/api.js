@@ -398,8 +398,6 @@ const getAnimeCharacters = async(id) =>{
   return Promise.all(characters);
 };
 
-console.log(GENRES[36])
-
 module.exports = {
   latestEpisodesAdded,
   latestAnime,
