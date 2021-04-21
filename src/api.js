@@ -398,7 +398,7 @@ const getAnimeCharacters = async(id) =>{
   return Promise.all(characters);
 };
 
-getAnimeCharacters('wonder-egg-priority').then(res => console.log(res))
+console.log(GENRES[36])
 
 module.exports = {
   latestEpisodesAdded,

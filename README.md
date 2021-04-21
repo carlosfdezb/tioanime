@@ -716,8 +716,7 @@ Results:
   ...
 ]
 ``` 
-
-## **:handshake
+---
 
 ### **:busts_in_silhouette: Credits**
 
@@ -743,11 +742,11 @@ Feel free to open issues or submit pull-requests to help me improving my work.
 
 ### **:robot: Author**
 
-_*Chris Michael*_
+_*Carlos Fernández*_
 
 > You can follow me on
-[github](https://github.com/ChrisMichaelPerezSantiago)&nbsp;&middot;&nbsp;[twitter](https://twitter.com/Chris5855M)
+[github](https://github.com/carlosfdezb)
 
 ---
 
-Copyright © 2021 [Otakustv API](https://github.com/ChrisMichaelPerezSantiago/otakustv).
+Copyright © 2021 [Otakustv API](https://github.com/carlosfdezb/tioanime).
