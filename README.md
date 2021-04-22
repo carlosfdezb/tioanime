@@ -19,7 +19,7 @@ npm install tioanime
 ## 📖 Documentation
 Available methods:
 
-- [latestEpisodesAdded](#🚩latestEpisodesAdded()): Retrieves the last episodes added.
+- [latestEpisodesAdded](#-latestEpisodesAdded()): Retrieves the last episodes added.
 - [latestAnime](#premiereAnime): Retrieves a basic list of anime in broadcast status.
 - [latestAnimeDetail](#premiereAnimeDetail): Similar to the previous one with much more data, but more slower.
 - [getAnimeInfo](#getAnimeInfo): Retrieves all available information of the chosen anime.
@@ -36,7 +36,7 @@ Available methods:
 - [getAnimeCharacters](#getAnimeCharacters): Retrieves a list of characters of the chosen anime, using myanimelist.net.
 
 
-## 🚩latestEpisodesAdded()
+## 🚩 latestEpisodesAdded()
 Retrieves the last episodes added.
 
 Example:
