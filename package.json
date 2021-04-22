@@ -10,7 +10,9 @@
     "tioanime",
     "tioanime api",
     "anime",
-    "scraper"
+    "scraper",
+    "anime-scraper",
+    "tio anime"
   ],
   "author": "Carlos Fernández <carlosfdezb@gmail.com>",
   "contributors": [

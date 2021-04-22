@@ -22,18 +22,18 @@ Available methods:
 - [latestEpisodesAdded](#-latestepisodesadded): Retrieves the last episodes added.
 - [latestAnime](#-latestanime): Retrieves a basic list of anime in broadcast status.
 - [latestAnimeDetail](#-latestanimedetail): Similar to the previous one with much more data, but more slower.
-- [getAnimeInfo](#getAnimeInfo): Retrieves all available information of the chosen anime.
-- [getAnimeRelated](#getAnimeRelated): Retrieves animes related to the chosen one, such as sequels, prequels, etc.
-- [getAnimeEpisodes](#getAnimeEpisodes): Retrieves a list of episodes of the selected anime.
-- [getAnimeEpisodeServers](#getAnimeEpisodeServers): Retrieves a list of servers of the selected episode.
-- [downloadAnimeEpisode](#downloadAnimeEpisode): Retrieves a list of download servers of the selected episode.
-- [search](#search): Retrieves a list of anime, from a query entered.
-- [searchDetail](#searchDetail): Similar to the previous one with much more data, but more slower.
-- [getByGenre](#getByGenre): Retrieves a list of anime, from a genre selected.
-- [getByGenreDetail](#getByGenreDetail): Similar to the previous one with much more data, but more slower.
-- [getAnimeExtraInfo](#getAnimeExtraInfo): Retrieves more information of the chosen anime, using myanimelist.net.
-- [getAnimeEpisodesTitles](#getAnimeEpisodesTitles): Retrieves a list of episodes names of the chosen anime, using myanimelist.net.
-- [getAnimeCharacters](#getAnimeCharacters): Retrieves a list of characters of the chosen anime, using myanimelist.net.
+- [getAnimeInfo](#-getanimeinfoid): Retrieves all available information of the chosen anime.
+- [getAnimeRelated](#-getanimerelatedid): Retrieves animes related to the chosen one, such as sequels, prequels, etc.
+- [getAnimeEpisodes](#-getanimeepisodesid): Retrieves a list of episodes of the selected anime.
+- [getAnimeEpisodeServers](#-getanimeepisodeserversid-episode): Retrieves a list of servers of the selected episode.
+- [downloadAnimeEpisode](#-downloadanimeepisodeid-episode): Retrieves a list of download servers of the selected episode.
+- [search](#-searchquery): Retrieves a list of anime, from a query entered.
+- [searchDetail](#-searchdetailquery): Similar to the previous one with much more data, but more slower.
+- [getByGenre](#-getbygenregenre-page): Retrieves a list of anime, from a genre selected.
+- [getByGenreDetail](#-getbygenredetailgenre-page): Similar to the previous one with much more data, but more slower.
+- [getAnimeExtraInfo](#-getanimeextrainfoid): Retrieves more information of the chosen anime, using myanimelist.net.
+- [getAnimeEpisodesTitles](#-getanimeepisodestitlesid): Retrieves a list of episodes names of the chosen anime, using myanimelist.net.
+- [getAnimeCharacters](#-getanimecharactersid): Retrieves a list of characters of the chosen anime, using myanimelist.net.
 
 
 ## 🚩 latestEpisodesAdded()
