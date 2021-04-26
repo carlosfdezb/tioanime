@@ -747,7 +747,7 @@ _*Carlos Fernández*_
 
 ---
 
-Copyright © 2021 [Otakustv API](https://github.com/carlosfdezb/tioanime).
+Copyright © 2021 [TioAnime API](https://github.com/carlosfdezb/tioanime).
 
 <p align="center">
   <a href="http://forthebadge.com/" target="_blank">

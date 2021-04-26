@@ -1,0 +1,15 @@
+export function latestEpisodesAdded(): Promise<any>;
+export function latestAnime(): Promise<any>;
+export function latestAnimeDetail(): Promise<any>;
+export function getAnimeInfo(id: any): Promise<any>;
+export function getAnimeRelated(id: any): Promise<any>;
+export function getAnimeEpisodes(id: any): Promise<any>;
+export function getAnimeEpisodeServers(id: any, episode: any): Promise<any>;
+export function downloadAnimeEpisode(id: any, episode: any): Promise<any>;
+export function search(query: any): Promise<any>;
+export function searchDetail(query: any): Promise<any>;
+export function getByGenre(genre: any, page: any): Promise<any>;
+export function getByGenreDetail(genre: any, page: any): Promise<any>;
+export function getAnimeExtraInfo(id: any): Promise<any>;
+export function getAnimeEpisodesTitles(id: any): Promise<any>;
+export function getAnimeCharacters(id: any): Promise<any>;
